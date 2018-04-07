@@ -4,5 +4,5 @@ a
 test
 file
 THIS
-IS-A-TEST
+IS-a-TEST
 FILE
