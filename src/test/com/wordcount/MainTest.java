@@ -20,7 +20,7 @@ import java.io.FileInputStream;
 @RunWith(Parameterized.class)
 public class MainTest {
 
-    private static final int TEST_CASE_NUM = 20;
+    private static final int TEST_CASE_NUM = 4;
     private String testCaseFile,testAnsFile;
 
     public MainTest(String testCaseFile, String testAnsFile) {
