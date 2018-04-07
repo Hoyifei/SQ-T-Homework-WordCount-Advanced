@@ -3,6 +3,6 @@ is
 a
 test
 file
-this
-is-a-test
-file
+THIS
+IS-A-TEST
+FILE
