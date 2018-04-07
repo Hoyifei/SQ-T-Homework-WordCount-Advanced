@@ -1,0 +1,7 @@
+aaaaaaaaaa 3
+aaaaaaaabb 3
+aaaaaaaaab 2
+aaaaaabbbb 2
+aaaaabbbbb 2
+aaaaaaabbb 1
+aaaabbbbbb 1

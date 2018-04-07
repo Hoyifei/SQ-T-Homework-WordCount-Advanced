@@ -1,0 +1,8 @@
+file 5
+is 5
+this 5
+a 2
+a-test 2
+test 2
+a-te 1
+st 1
